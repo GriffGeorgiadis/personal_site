@@ -90,17 +90,43 @@ a:hover {
 }
 
 /* experience section */
-.container-experience {
-  padding: 15% 7%;
+.experience-section {
+  padding: 10% 7%;
   background-color: #1e1e1e;
 }
-
+.experience-header {
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
 .carousel-img {
-  height: 5rem;
+  height: 4rem;
+  width: 5rem;
+  margin-bottom: 10%;
 }
 .experience-text {
   color: white;
+  height: 8rem;
 }
 .carousel-inner {
-  padding: 0 10%;
+  margin-top: 5%;
+  padding: 0 5%;
+}
+
+.company-title-time {
+  font-size: 1.15rem;
+  margin: 1.5% 0 0 0;
+}
+.col1 {
+  padding: 0;
+  width: 5%;
+}
+.carousel-indicators {
+  bottom: -17px;
+}
+.carousel-control-next-icon {
+  margin-left: 20%;
+}
+.carousel-control-prev-icon {
+  margin-right: 80%;
 }
