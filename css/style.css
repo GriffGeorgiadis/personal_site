@@ -1,0 +1,106 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Montserrat-Black', sans-serif;
+}
+.colored-section {
+  padding: 15% 7%;
+  background-color: #1e1e1e;
+}
+.container-title {
+  margin: 0;
+  padding: 0;
+}
+/* title section */
+.title-section {
+  background-color: #1e1e1e;
+}
+
+.portrait-img {
+  height: 42rem;
+  text-align: left;
+}
+
+/* text */
+.name {
+  color: white;
+  margin-top: 35%;
+  margin-left: 10%;
+}
+.job-title {
+  color: white;
+  margin-top: 3%;
+  margin-left: 10%;
+  font-weight: 100;
+  font-size: 1.75rem;
+}
+
+/* nav */
+.navbar-nav {
+  margin-left: 7%;
+}
+.nav-item {
+  margin-right: 4%;
+  padding: 0;
+}
+
+/* conact */
+.icon {
+  margin-top: 23%;
+  margin-left: 33%;
+}
+.fab,
+.fas {
+  color: white;
+  margin-right: 7%;
+  font-size: 1.5rem;
+}
+.fab:hover,
+.fas:hover {
+  color: gray;
+}
+a:hover {
+  color: gray;
+}
+
+/* about section */
+
+.container-about {
+  padding: 10% 7% 15%;
+}
+.about-header {
+  text-align: center;
+  font-weight: bold;
+}
+.about-contents {
+  margin-top: 7%;
+}
+.photo-me {
+  height: 20rem;
+}
+.para {
+  margin-top: 5%;
+}
+
+/* experience section */
+.container-experience {
+  padding: 15% 7%;
+  background-color: #1e1e1e;
+}
+
+.carousel-img {
+  height: 5rem;
+}
+.experience-text {
+  color: white;
+}
+.carousel-inner {
+  padding: 0 10%;
+}
